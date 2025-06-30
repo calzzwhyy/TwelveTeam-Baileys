@@ -1,14 +1,14 @@
 {
   "name": "baileys",
   "version": "6.7.18-Alpha",
-  "description": "WhatsApp API x Button by PL",
+  "description": "WhatsApp API x Button by Team",
   "keywords": [
     "whatsapp",
     "automation"
   ],
-  "homepage": "https://github.com/seiren-primrose/PL-Baileys/",
+  "homepage": "https://github.com/calzzwhyy/TwelveTeam-Baileys/",
   "repository": {
-    "url": "git@github.com:seiren-primrose/PL-Baileys.git"
+    "url": "git@github.com:calzzwhyy/TwelveTeam-Baileys.git"
   },
   "license": "MIT",
   "author": "Rajeh Taher",
